@@ -11,7 +11,7 @@ var (
 		123: &User{
 			Id:        123,
 			FirstName: "sharad",
-			LastName:  "kangude",
+			LastName:  "jerry",
 			Email:     "skangude05@gmail.com",
 		},
 	}
